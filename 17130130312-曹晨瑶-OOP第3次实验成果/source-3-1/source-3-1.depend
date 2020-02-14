@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1558708925 source:d:\c++上机\17130130312-曹晨瑶-oop第3次实验成果\source-3-1\error.cpp
+	"error.hpp"
+	"lexer.hpp"
+	"parser.hpp"
+
+1558708925 d:\c++上机\17130130312-曹晨瑶-oop第3次实验成果\source-3-1\error.hpp
+	<iostream>
+	<string>
+
+1558716723 source:d:\c++上机\17130130312-曹晨瑶-oop第3次实验成果\source-3-1\sym.cpp
+	"sym.hpp"
+
+1558706032 d:\c++上机\17130130312-曹晨瑶-oop第3次实验成果\source-3-1\sym.hpp
+	<iostream>
+	<map>
+
+1558709854 d:\c++上机\17130130312-曹晨瑶-oop第3次实验成果\source-3-1\lexer.hpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
+1558707820 d:\c++上机\17130130312-曹晨瑶-oop第3次实验成果\source-3-1\parser.hpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+
+1558709827 source:d:\c++上机\17130130312-曹晨瑶-oop第3次实验成果\source-3-1\lexer.cpp
+	<iostream>
+	<string>
+	"lexer.hpp"
+	"error.hpp"
+	"sym.hpp"
+
+1558707656 source:d:\c++上机\17130130312-曹晨瑶-oop第3次实验成果\source-3-1\parser.cpp
+	<iostream>
+	"lexer.hpp"
+	"error.hpp"
+	"sym.hpp"
+	"parser.hpp"
+
+1558716723 source:d:\c++上机\17130130312-曹晨瑶-oop第3次实验成果\source-3-1\main.cpp
+	<iostream>
+	<string>
+	"error.hpp"
+	"lexer.hpp"
+	"parser.hpp"
+	"sym.hpp"
+

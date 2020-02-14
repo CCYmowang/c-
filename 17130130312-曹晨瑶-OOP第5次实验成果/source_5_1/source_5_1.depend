@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559370957 source:d:\c++上机\17130130312-曹晨瑶-oop第5次实验成果\source_5_1\main.cpp
+	<iostream>
+	"complex.hpp"
+
+1559359735 d:\c++上机\17130130312-曹晨瑶-oop第5次实验成果\source_5_1\complex.hpp
+	<iostream>
+
+1559487489 source:d:\c++上机\17130130312-曹晨瑶-oop第5次实验成果\source_5_1\complex.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"complex.hpp"
+

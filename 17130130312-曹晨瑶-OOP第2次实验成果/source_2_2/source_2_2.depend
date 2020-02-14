@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556903243 source:d:\c++上机\17130130312-曹晨瑶-oop第2次实验成果\source_2_2\function.cpp
+	<iostream>
+	"function.hpp"
+	<string>
+
+1556898078 d:\c++上机\17130130312-曹晨瑶-oop第2次实验成果\source_2_2\function.hpp
+
+1556903254 source:d:\c++上机\17130130312-曹晨瑶-oop第2次实验成果\source_2_2\main.cpp
+	<iostream>
+	"function.hpp"
+	<string>
+

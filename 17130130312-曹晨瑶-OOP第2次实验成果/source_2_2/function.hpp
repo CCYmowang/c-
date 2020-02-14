@@ -1,0 +1,22 @@
+#ifndef function
+#define function
+using namespace std;
+struct Tnode{
+	string word;
+	int count;
+    Tnode *left;
+    Tnode *right;
+};
+
+Tnode* regist_word(Tnode* &root,const string& theword);//构造二叉树
+
+bool deleteBST(Tnode* root);//销毁树
+
+bool search(Tnode* root,const string& theword);//查找信息是否存在
+
+void print_tree(Tnode* root,unsigned int indent);//打印信息 indent树的深度
+
+void print_tree_byorder(Tnode* root);
+//在操作2的基础上，要求按照所有结点中的应用数据依据 word 的字典顺序依次输出。【提示：如果你按照“二叉排序树/二叉搜索树”来实现第1个操作的话，采用“中序遍历”即可实现本操作】
+
+#endif // function

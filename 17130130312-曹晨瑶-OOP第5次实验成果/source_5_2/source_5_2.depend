@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559655559 source:d:\c++上机\17130130312-曹晨瑶-oop第5次实验成果\source_5_2\main.cpp
+	<iostream>
+	"Vec4.hpp"
+
+1559655435 d:\c++上机\17130130312-曹晨瑶-oop第5次实验成果\source_5_2\vec4.hpp
+
+1559655047 source:d:\c++上机\17130130312-曹晨瑶-oop第5次实验成果\source_5_2\vec4.cpp
+	<iostream>
+	"Vec4.hpp"
+

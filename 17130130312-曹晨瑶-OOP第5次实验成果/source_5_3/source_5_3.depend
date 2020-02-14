@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1559730380 source:d:\c++上机\17130130312-曹晨瑶-oop第5次实验成果\source_5_3\ptr.cpp
+	<iostream>
+	"ptr.hpp"
+
+1559730380 d:\c++上机\17130130312-曹晨瑶-oop第5次实验成果\source_5_3\ptr.hpp
+
+1559730264 source:d:\c++上机\17130130312-曹晨瑶-oop第5次实验成果\source_5_3\main.cpp
+	<iostream>
+	"ptr.hpp"
+	<exception>
+	<cstdlib>
+
